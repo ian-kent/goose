@@ -1,4 +1,4 @@
-Goose - Go Server-Sent Events [![GoDoc](https://godoc.org/github.com/ian-kent/gofigure?status.svg)](https://godoc.org/github.com/ian-kent/gofigure)
+Goose - Go Server-Sent Events [![GoDoc](https://godoc.org/github.com/ian-kent/goose?status.svg)](https://godoc.org/github.com/ian-kent/goose)
 =============================
 
 Goose implements Server-Sent Events in Go.
